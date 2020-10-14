@@ -16,3 +16,5 @@
 * Agent 점검 중단 시 지원 서비스를 제공합니다.
 
 ## 서비스 절차
+
+![serversecuritycheck_00_202010.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_00_202010.png)
