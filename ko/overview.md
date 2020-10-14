@@ -17,4 +17,4 @@
 
 ## 서비스 절차
 
-![serversecuritycheck_00_202010.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_00_202010.png)
+![serversecuritycheck_00_20201015.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_00_20201015.png)
