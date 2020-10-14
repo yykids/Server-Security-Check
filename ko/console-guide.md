@@ -6,6 +6,7 @@
 
 인스턴스 OS, 점검 종류, 점검 기준을 선택하여 Agent 실행 스크립트를 불러옵니다.
 
+![serversecuritycheck_01_202010.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_01_202010.png)
 
 ### Linux 계열 Agent
 
