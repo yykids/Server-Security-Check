@@ -1,10 +1,10 @@
 ## Security > Server Security Check > 콘솔 사용 가이드
 
-여기에서는 점검 에이전트 실행 절차를 설명합니다. 
+여기에서는 점검 Agent 실행 절차를 설명합니다. 
 
 ## Agent 실행 절차
 
-Instance OS, 점검 종류, 점검 기준을 선택하여 에이전트 실행 스크립트를 불러옵니다.
+인스턴스 OS, 점검 종류, 점검 기준을 선택하여 Agent 실행 스크립트를 불러옵니다.
 
 
 ### Linux 계열 Agent
