@@ -6,7 +6,7 @@
 
 インスタンスOS、点検の種類、点検基準を選択し、Agent実行スクリプトを呼び出します。
 
-![serversecuritycheck_01_20201015.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_01_20201015.png)
+![serversecuritycheck_01_20201015.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_01_20201022_ja.png)
 
 ### Linux系列Agent
 
